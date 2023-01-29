@@ -11,7 +11,7 @@ namespace Assignment1_DucMinhHuynh.Controllers
     {
         /// <summary>
         /// set http request -> GET
-        /// SET ROUTE controller(Square) action(Square_compute) param {id}
+        /// SET ROUTE controller(NumberMachine) action(operator_compute) param {id}
         /// send response to Browser ((input * input)/ input + (input * 2 - input)
         /// </summary>
         /// <param name="id">10 ,-5 , 10 </param>
